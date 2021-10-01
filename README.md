@@ -11,4 +11,7 @@ Responsabilidades asociadas a la administración de sistemas y redes, clasifican
 Diseño, configuración e implantación de un servicio de red.
 El alumno deberá estudiar, diseñar e implantar un servicio (a su elección o propuesto por el profesor) y realizar una demostración de su funcionamiento.
 - Una competencias de la asignatura era Servicios Internet que contenia Servicios de correo, el proyecto se desarrollo en este ambito usando para ello ***SpamAssassin*** software que filtra correo no deseado 
-- 
+
+## Organización del repositorio
+- Scripts: Contiene shell scripts para realizar tareas rutinarias de administración en entornos UNIX.
+- Servicios: Contine explicaciones y guías para trabajar con servicios típicos de sistemas. Por ejemplo, servidores Apache, compartición de datos con NFS y Samba, IPTables, etc.
